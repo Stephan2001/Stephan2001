@@ -6,5 +6,5 @@ Full-stack developer that loves to build, tinker, and break things.
 - 🌱 Learning more about: React, Go, and JS
 - 📫 How to reach me: [stephan.moolman.dev@gmail.com](mailto:stephan.moolman.dev@gmail.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephan2001&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ST10219213&show_icons=true&theme=tokyonight)
 
