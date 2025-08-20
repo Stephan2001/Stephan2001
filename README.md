@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="gopher3" src="https://github.com/user-attachments/assets/63b8eef9-37dc-46b7-8127-a210e7241e2d" /># Hi there 👋, I'm Stephan
+# Hi there 👋, I'm Stephan
 
 Full-stack developer that loves to build, tinker, and break things.
 
@@ -7,7 +7,7 @@ Full-stack developer that loves to build, tinker, and break things.
 - Website: https://www.hearthdev.co.za/
 - 📫 How to reach me: [stephan.moolman.dev@gmail.com](mailto:stephan.moolman.dev@gmail.com)
 
-<img width="1024" height="1024" alt="gopher3" src="https://github.com/user-attachments/assets/027eb1c1-41a0-4059-b2e1-49ec9d78ef5f" />
+<img width="300" height="300" alt="gopher3" src="https://github.com/user-attachments/assets/027eb1c1-41a0-4059-b2e1-49ec9d78ef5f" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephan2001&show_icons=true&theme=tokyonight&count_private=true&v=2)
 
